@@ -1,2 +1,2 @@
 # releases-demo
-Demo repository for GitHub Releases
+Demo repository for (immutable) GitHub Releases
